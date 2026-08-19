@@ -3,7 +3,7 @@
     "Author": "Rika Kagurasaka; derived from Damage Info by perchbird",
     "Name": "Damage Info Extended",
     "InternalName": "DamageInfoExtended",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "Description": "GPL-3.0 Damage Info derivative that annotates local incoming damage with calculated active mitigation.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/RikaKagurasaka/DamageInfoExtended",
@@ -19,9 +19,9 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Add damage type, source, and calculated mitigation to native flytext.",
-    "Changelog": "Initial public testing build. Adds calculated local incoming-damage mitigation to Damage Info flytext, rounded to whole percentages.",
+    "Changelog": "Adds numeric status-ID matching for all fixed-percentage job mitigations, including Sun Sign and Holos, for reliable localized-client support.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/RikaKagurasaka/DamageInfoExtended/releases/download/v0.1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/RikaKagurasaka/DamageInfoExtended/releases/download/v0.1.0.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/RikaKagurasaka/DamageInfoExtended/releases/download/v0.1.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RikaKagurasaka/DamageInfoExtended/releases/download/v0.1.1.0/latest.zip"
   }
 ]
