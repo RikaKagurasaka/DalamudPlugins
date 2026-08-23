@@ -21,7 +21,7 @@
     "Punchline": "Add damage type, source, and calculated mitigation to native flytext.",
     "Changelog": "Adds numeric status-ID matching for all fixed-percentage job mitigations, including Sun Sign and Holos, for reliable localized-client support.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/RikaKagurasaka/DamageInfoExtended/releases/download/v0.1.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/RikaKagurasaka/DamageInfoExtended/releases/download/v0.1.1.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/rika-ffxiv/DamageInfoExtended/releases/download/v0.1.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rika-ffxiv/DamageInfoExtended/releases/download/v0.1.1.0/latest.zip"
   }
 ]
